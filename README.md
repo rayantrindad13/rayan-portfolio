@@ -21,8 +21,8 @@ Sou [Sua Profissão] com foco em [ex: desenvolvimento web, análise de dados, mo
 
 📫 Contato
 
-- Email: (mailto:rayanats.contato@gmail.com)
-- LinkedIn: (https://www.linkedin.com/in/rayan-trindade-a52128238/))
+- Email: rayanats.contato@gmail.com
+- LinkedIn: https://www.linkedin.com/in/rayan-trindade-a52128238/
 
 ---
 
